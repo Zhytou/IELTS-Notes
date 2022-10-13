@@ -11,9 +11,9 @@
 
 |       |  Discussion/Opinion   | Agree/Disagree  | Problem/Solution |
 | ----- |  ------------------   | --------------  | ---------------- |
-| 常见问题  | 1. Do the advantages outweigh the disadvantages?<br>2. Discuss both views and give your opinion. | 1. Is this a positive or negative development?<br>2. To what extent do you agree or disagree?|
-| 得分要点  | 必须提到两个题干中的两个观点，而且两个主体段必须分别阐述两个观点的**优势**或者**原因**；<br>至于自己的观点，若比较复杂可以另一起一段单独称述，否则在总结段中表明自己偏A反驳B或者偏B反驳A| 可以选择支持或者反对，甚至是支持又反对，对应的主体段落就是两个支撑、两个反驳或者一个支撑一个反驳；<br> 注意一分为二的思考方式，为题干中的观点添加一些限定词，在不同的背景中思考整个问题，辩证的回答，从而保证字数|
-| 参考结构  | Introduction:blabla. In my opinion, blabla<br> Body 1: Adovates of xxx cite efficiency and safety as significant factors.<br> Body 2: On the other hand, those in favour of xxx believe that it is flexible and economical to do so.<br> Conclusion: From my point of view, blabla | Introduction: blablabla. From my point of view, I totally/partially/ agree/disagree blabla.<br> Body 1|
+| 常见问题  | 1. Do the advantages outweigh the disadvantages?</br>2. Discuss both views and give your opinion. | 1. Is this a positive or negative development?</br>2. To what extent do you agree or disagree?|
+| 得分要点  | 必须提到两个题干中的两个观点，而且两个主体段必须分别阐述两个观点的**优势**或者**原因**；</br>至于自己的观点，若比较复杂可以另一起一段单独称述，否则在总结段中表明自己偏A反驳B或者偏B反驳A| 可以选择支持或者反对，甚至是支持又反对，对应的主体段落就是两个支撑、两个反驳或者一个支撑一个反驳；</br> 注意一分为二的思考方式，为题干中的观点添加一些限定词，在不同的背景中思考整个问题，辩证的回答，从而保证字数|
+| 参考结构  | Introduction:blabla. In my opinion, blabla </br> Body 1: Adovates of xxx cite efficiency and safety as significant factors.</br> Body 2: On the other hand, those in favour of xxx believe that it is flexible and economical to do so.</br> Conclusion: From my point of view, blabla | Introduction: blablabla. From my point of view, I totally/partially/ agree/disagree blabla.</br> Body 1: Why I agree/disagree. </br> Body 2: |
 
 ## 思路
 
@@ -132,6 +132,164 @@
     我个人坚定的认为，他们得到了这些国家的帮助，至少应该在这些国家工作一段时间再去考虑别的。因为他们的能力是在训练中得到的，如果没有这些训练，他们很难有这些成就。虽然他们有自由去向往更美好的生活，但这样自私的决定会使这些发展中国家长期无法发展，这些人可能带走了很多工作机会、资源等，使这些国家长期处于贫困中，因此我认为他们至少应该先工作一段时间，再去考虑其他的事情。
 
 ## 真题
+
+### 思路
+
+题目
+
+    ·Some employers offer their employees subsidsed membership of gyms and sports center, believing that this will make their staff healthier and thus more effective at work. Other employers see no benefi in doing so.
+
+    Consider the arguments from both aspects of this possible debate, and reach a conclusion.
+
+答案
+
+    支持者：
+    1. lead to higher levels of output or service, 
+    2. improve the work/life balance, more fulfilling leisure time, more motivating than perks, payincrements or financial rewards
+    3. improve job satisfaction
+    反对者：
+    1. virtually imposwible to quantify
+    2. budget should be spent on job training -> promote career progression and have better job prospects
+    3. reduce the risk of redundancy if the company restructures, downsizes or outsources its workforce.
+    你的观点
+    better to use on job training
+
+题目
+
+    The Internet will never replace traditional course books in schools.
+
+    How far do you agree with this predication?
+
+答案
+
+    观点:
+    there wil always be a place for course books for the school curiculum, despite the many benefits of the Internet
+
+题目
+
+    Some people believe that children should spend all of their free time with their families. Others believe this is unnecessary or even negative.
+
+    Discuss the possible arguments on both sides, and say which side you personally supprot.
+
+答案
+
+    支持者：
+    1. It may appear advisable for parents to act as role models and to establish ground rules for behaviours by spending as much time as possible with their children. -> Allow youngsters to absorb conventions and code of conduct -> Hopefully leading to absence of bullying
+    2. reduce the risk of falling victim to crimes or coming under the negative influence of peer pressure
+    反对者:
+    Ask whether this is a practical proposition -> Parents have a role of breadwinner, meaning that he/she is always away from the family -> Thus, it is inevitable for children to spend all their free time with family. -> After-school childcare is viable alternative. -> Because children can learn a considerable amout form their peers.
+
+    你的观点：
+    While family time is essential for bonding and absorbing patterns of behaviours, there are definite advantages when children are outside the family too.
+
+题目
+
+    Pullution of rivers, lakes and seas is a major concern for people who seek to protect the environment. 
+
+    What are the possible causes of water pollution, and what effects does this have on animal life and human society?
+
+答案
+
+    原因
+    1. emissions -> contain damaging pollutant particals which contaminate rainwater run-off and thus enter the water cycle.
+    2. accidental of deliberate dumping of waste product in places ouside of landfills or waste processing centers.
+    危害
+    1. (animal life)severe -> Contaminated water leads to dwindling numbers or even potentail extinction.
+    2. (human society)distressing -> including poisoning of drinking water, famine or drought due to lack of safe irrigation
+
+题目
+
+    In many countries, tranditional dress and costumes are considered effective ways of maintaining links with the past.
+
+    How effective can traditional costumes be, in this sense?
+
+答案
+
+    Body 1:
+    1. play a key role in social events such as religious rituals or military parades -> transmitting social memes such as public duty and self-sacrifice
+    2. remind us of the origins of cultural traditions and mythologies
+
+    Body 2:
+    It is the ceremonies themsevles which convey the cultural norms which help to maintain the frabic of society.
+
+题目
+
+    Many doctors are concerned about the high use of computer games by children and young people.
+
+    What mental and physical problems may arise from excessive use of these games? How could these problems be reduced?
+
+答案
+
+    造成问题
+    1. (physcial) sedentary lifestyle -> obesity or inadequate development; put strain on eyesight -> suffer from symptoms of poor vision
+    2. (mental) addiction -> be obessed with games -> inability to socialise; undermine interpersonal skills -> underperform both academically and socially
+    解决方法
+    1. promote a more active lifestyle through sports programme
+    2. participantion in competitive events such as matches or races
+    3. an initiative to raise awareness of risks of the situation, through health warning on games packaging or through high-profile spokeperson spreading such a message
+
+题目
+
+    Unemployment remains the bigest challenge to school-leavers in most countries
+
+    How far do you agree with the statement? What other challenges face young people today?
+
+答案
+
+    介绍段: 
+    a worrying challenge, especially at a time of economic instability and social unrest
+
+    支持/反对原因
+    joblessness undermines a young person's economic prospects and consequent social mobality -> because they bear burden of an increasingly elderly population with high longevity, pay higher taxes and work longer hours
+
+    其他问题
+    famine, drought or outbreaks of disease -> caused by civil war, political instability or the corruption of authourities -> endanger their safety in addition to their livelihood -> thus appear far more serious than unemployment
+
+题目
+
+    Trasport delays and long journey times are a widespread phenomenon in many cities today.
+
+    What are the causes of this problem, and how could the situation be improved?
+
+答案
+
+    可能原因
+    1. lack of investment or funding for infrastructure in the form of high-capacity public transport and increased road space for private vecicles. -> too many use the existing network, the congestion is inevitable
+    2. overcrowding in cities, whereby people migrate from the hinterlands and settle in urban areas -> putting strain on amenities, housing and above all on transport capacity -> the already strenched system is pushed to a critical point, casuing cancellation and breakdowns
+
+    解决方法
+    1. encourage investment in better infrastructure
+    2. use tax incentives to allow more home working -> less need to commute from suburbs to the inner city for work
+
+    总结段
+    In conclusion, it seems that outdated infrastructure and overcrowding are the key factors behind our transport frustrations. Possible solutions would involve better funding, and also innovations in ways of working and travelling to reduce the burden on the system.
+
+题目
+
+    It is sometimes said that the countryside offer a high quality of life, especially for families.
+
+    What are the arguments for and against families choosing to live and work in the countryside, for example as farmers? What is your own opinion about this?
+
+答案
+
+题目
+
+    Some observers say that police officers should be recruited from the communities where they work, so that they have local knowledge. Other people say that this unnecessary or even undesirable.
+
+    Where do you stand on this debate? Is local knowledge essential in modern policing?
+
+答案
+
+    支持者
+    1. advocates point the need for police to understand the minutiae of local community -> for instance, a community may have certain religious friction or political conflict, the police need to show sensitivity and be able to anticipate the crimes that may be committed
+    2. easier to gain information -> lead to stronger evidence at trials and higher conviction rates -> have a detering effect
+
+    反对者
+    1. high incidence of corruption
+    2. local sensitivity leads to the police failing to enforce laws fully and making exceptions for some offenders
+    3. police officers should have lateral thinking and investigative skills instead of local knowledge
+
+### 全文
 
 题目
 
