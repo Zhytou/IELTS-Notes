@@ -1,6 +1,22 @@
 # IELTS Speaking Preparation
 
-## Structure(Part2 only)
+## Structure
+
+### Part1 & Part3
+
++ Answer
+
+    Answer directly with yes/of course/absolutely
+
++ Reason
+
+    Give a reson why you doing this
+
++ Example/Explaination
+
+    Expand your answer
+
+### Part2
 
 + Introduction
 
@@ -11,6 +27,8 @@
     Respond to the question, specifically 1 1 1 2 sentences for each question.
 
 + Conclusion
+
+    Use a nice sentence to end your answer.
 
 ## Useful Widgets
 
@@ -53,7 +71,7 @@ Frankly
 + It's up to you:由你决定
 + Impress me:说说看
 + You're hot/good looking:你很辣
-+ Wait
++ Wait:等下
 
 ### Greetings & Bye
 
@@ -69,6 +87,8 @@ Frankly
 
 + Use full sentences, even if it is understandable
 + Instead of continously correcting yourself, try to say "by saying that, I mean"
++ Avoid using too much fillers, such as "hmmm", "you know" and "like"
++ Try to be direct to the point, especially in part2.
 
 ****
 
@@ -135,41 +155,31 @@ Frankly
 
 ### Describe a person
 
-#### Close People - a family member you like to work with
+#### Close People
 
     Speaking of someone I'd like to work with, there are many nominees. But the first one that comes to mind is XXX. We used to study in the same high school and became really good friends. When we are together, we almost talk anything under the sun. In addition, he has a sense of humor and can always make people around him burst into laughters with his hilarious jokes. On top of that, he is supportive and helpful, and he is always ready to offer someone even strangers a hand.
 
     Unfortunately, I have not worked with him before, because both of us are occupied with our studies. But if given the chance, I definitely like to work with him for several reasons. To begin with, he is capable and knowledgeable. He often give me some suggestions when I get trouble with my study. Moreover, he is an optimistic individual who often see the bright side of every situation.
 
-#### Celebrity - NBA player/Actor- a person who dresses well
-
-    Speaking of someone who dresses fashionable, I can come up with so many nominees because celebrities, actors, famous athletes, models, and even social media influencers are always trendy and care about fashion. They may even have a tailor and a stylist. 
-
-    I would like to describe Devin Booker, my favorite NBA basketball player who is now a Phoenix Suns guard and three-time NBA All-Star. When he was a nineteen-year-old rookie, he became the youngest player to score over sixty points in a game, finishing with seventy against the Boston Celtics. He even managed to get to the stage of the NBA offseason final in 2020. 
-
-    Booker is known for keeping his outfits casual and comfortable while still attractive and engaging. In fact, he usually wears a normal hoodie and jeans but uses some stunning accessories such as an icy necklace or a shining watch to embellish his entire costume. I would partly attribute his ability to dress well to his girlfriend, Kendall Jenner, who is also a famous model.
+#### Celebrity
 
 ### Describe a place or city
 
-#### City - a nice place you'd recommend people to live in
+#### City
 
     I'm going to describe CSC, the capital city of Hu Nang province. It is located in the central area of China, alongside the Yangtze. I have traveled there several times, and I enjoyed every minute of staying there. The city is famous for its food, especially the snacks such as the local bubble tea and stinky toufu.
 
     Actually, I'd like to recommend XXX as a wonderful place to live for several reasons. To begin with, it's a popular destination for people looking to escape the hustle and bustle of big cities. In addition, the local people are very warm and welcoming. A tourist can get the necessary help from both the people and the authorities. Moreover, the transportation system of the city is well developed. Thanks to that, I can maintain the time of my schedule.
 
-#### Aceint/Morden - do you like old buildings or new ones?
-
 ### Describe an object
 
-#### Electronic Devices - smartwatch - something I'd like to own in the future
+#### Electronic Devices
 
     Speaking of something I'd like to own, there are many selections. But the first one that comes to mind is a smartwatch, like the newly launched iwatch of Apple. It is a new type of watch having all the features and functions of the mobile phone. You wear it on your wrist, so it is even more portable than phones. Moreover, this is a new fashion accessory that I've seen advertising everywhere, on TV, on social media, and on the billboard. I've also seen people wearing it in the department stores and high street.
 
     I'd like to purchase a smartwatch for several reasons. To begin with, I can synchronize it with my laptop and cellphone to get all my needs at my wrist. It's particularly convenient for me to be able to organize my life and check my appointments and work arrangements by just looking at my wrist.Another thing good about smartwatches is that it helps people keep in health. Apparently, you can track your exercise goals, even things like the steps you've taken every day.Moreover, the watches are really practical and just as good as phones in terms of technology, but it's even more portable. Personally, I'd like to call it the ultimate in portable electronic devices.
 
-#### Electronic Devices - laptop/phone - some technology you cannot live without
-
-#### Book/TV series - Game of Thrones - a novel you'd like to recommend others to read
+#### Book/TV series
 
     When it comes to my favorite TV series, the first one that comes to my mind is Game of Thrones. It is adapted from a series of fantasy novels called A Song of Ice and Fire. The story is mainly about the political conflicts among the noble families who either try to claim the throne or fight for independence from whoever sits on it.
 
@@ -189,11 +199,11 @@ Frankly
 
 #### Vedio Game - LOL
 
-    LOL
+[LOL](https://www.theodysseyonline.com/my-experience-playing-league-of-legends)
 
 ### Describe an event
 
-#### Traditional Festivals - Spring Festival or Mid-Autumn
+#### Traditional Festivals
 
     When it comes to my favorite Chinese traditional festivals, I guess the answer would be the Spring Festival, which is the longest public holiday in my country. I have seven days off to travel around to unwind.
 
@@ -203,7 +213,7 @@ Frankly
 
     Unfortunately, it is a tradition that mainly involves old generations. According to my observation, more and more young people tend to travel around or hang out with friends, despite the fact that tourist attractions are swarming with people on public holidays. Many people have been fed up with this, so they prefer to stay at home and rest.
 
-#### Sports Event - FIBA 2019 World Cup - an memorable event recent years
+#### Sports Event
 
     I'm going to describe what I think was the most memorable event in recent years which was the 2019 FIBA Basketball World Cup, a spectacular festival of basketball over several weeks here in China. 
 
@@ -213,7 +223,7 @@ Frankly
 
 #### Concert/Live House
 
-#### Lessons - something your parents taught you
+#### Lessons
 
     Speaking of some powerful lessons that my parents gave me and that have shaped who I am today, there are just too many.
     
@@ -229,7 +239,7 @@ Frankly
 
 #### Romantic/Lovely/Happy Gift
 
-### Angry/Sad Thing - eatout vs. eat at home
+#### Angry/Sad Thing
 
     Eating out can be a very pleasurable experience. Having dinner with a friend, eating a romantic meal while on a date, or celebrating some special event with a party at a restaurant are all things we enjoy doing. 
 
@@ -245,7 +255,7 @@ Frankly
 
 ### Describe an activity or a favarite thing
 
-#### School/Classes/Exams - a time you were very busy/a difficut thing you did and succeeded/a time when you needed to search for information
+#### School/Classes/Exams
 
     I'm going to talk about my graduation project. I was asked to redesign a dual polarized horn antenna feed with specific requirements on indexes like isolation and frequency.
 
@@ -257,7 +267,7 @@ Frankly
 
     I had a sense of achievement because the task was really difficult for me and I put every effort on it.
 
-#### Sports/Healthy Habits - Basketball - something health I enjoy
+#### Sports/Healthy Habits
 
     When it comes to something health I enjoy doing, the first thing that comes to mind is basketball. Basketball is a team sport in which two teams, most commonly of five players each, opposing one another on a rectangular court, compete with the primary objective of shooting a basketball through the defender's hoop.
 
@@ -265,7 +275,7 @@ Frankly
 
     I play basketball for several reasons. To begin with, basketball is a fast-moving game that involves a lot of variety, including shooting, dribbling, passing, rebounding, defense, and much more, so it is a great workout helping me burn calories and keep in shape. Moreover, I need to make sure every part of my body engages in perfect sync with each other when playing the sport, which means basketball improves balance and coordination. In addition, the sport is more than physical exercise, it also requires strategy and teamwork. Basketball teaches me about being a good team player and can be a great social sport.
 
-#### Food/Snacks - something you like to eat
+#### Food/Snacks
 
     Speaking of snacks I like to eat, there are many choices. But the first one that comes to my mind is the crispy and salty potato chips. I usually eat it when watching TV series or animes, and I prefer to pair it with a bottle of cold coke or bubble tea.
 
@@ -283,11 +293,11 @@ Frankly
 
     Do you like getting up early in the morning?
 
-    To be honest, I don't like to get up early in the morning. I actaully consider myself as a night owl
+    To be honest, I don't like to get up early in the morning. I actaully consider myself as a night owl.
 
     What do you usually do in the morning?
 
-    I usually get up at 9 o'clock or even later if I don't have any morning lecture. After I wash up, I tend to go to the library to study
+    I usually get up at 9 o'clock or even later if I don't have any morning lecture. After I wash up, I tend to go to the library to study.
 
     What did you do in the morning when you were little? Why?
 
@@ -369,24 +379,35 @@ Frankly
 
     What's the weather like where you live?
 
-    It's wet and moist
+    It's wet and moist in most of time, but the winter can be freezing and extreme cold for me.
 
     Do you prefer cold or hot weather?
 
+    I prefer hot weather because I am fond of outdoor activities which are more suitable to organise in summer. Another reason is that I hate to wear too much clothes and get a swellon toe or ear in winter.
+
     Do you prefer dry or wet weather?
 
-    Dry weather for sure.
+    Personally, I like wet weather more even though it can be really uncomfortable for people who tend to sweat because their clothes and shoes will be slimy and nasty. But I have some kind of skin allergy and when I come to somewhere dry I get pimples on my faces.
 
     Are you in the habit of checking the weather forecast? When/How often?
+
+    Yes, I have the habit of checking the weather on daily basis, especially when I will have an important appointment or work arrangement the next day because I have to choose smart outfits according to the forecast.
 
 #### Brithday
 
     What do you usually do on your birthday?
 
-    Well, it depends. If I am in my home
+    I always celebrate it with my family or friends because it is a special day. For example, 
 
     What did you do on your birthday when you were young?
-    For
+
+    I can invite my friends to come to my home and celebrate my birthday with my family. In addition to that, I think I gain some kind of privilege that my parents allow me to stay up all night to play video games or wacth animes.
+
+    Do you think it is important for you to celebrate your birthday
+
+    Whose birthday do you think is the most important to celebrate in Chinese?
+
+    The elders and the infants.
 
 #### Writing
 
@@ -399,6 +420,7 @@ Frankly
     As I mentioned before, I have to write something for academic purpose and I also tend to write especially when I am confronting dilemmas and have to make a choice. The reason is that I write to calm down and make a wise choice.
 
     Do you think the things you write would change?
+
     Yeah, of course. As for my daries, the contents invole my daily life so it definitely change on daily basis.
 
     Do you prefer typing or handwriting when you are writing?
@@ -411,15 +433,39 @@ Frankly
     
     Yeah, my first name actually means ocean in Chinese.
 
+    How would you choose names for your next generation?
+
+    Are there any differences between how Chinese name their children now and in the past?
+
+
+
+    Does anyone in your family have the same name as you?
+
+    No, no one in family has the same name as me.
+
 #### Snacks
 
     What snacks do you like to eat?
+
+    I'm a big fan of pototo chips and I like tomato-favoured chips most. I always pair it with a can of coke or a bottle of bubble tea when I am watching TV series or animes.
+
+    Did you often eat snacks when you were young?
+
+    Yes, I really love sweety things like candy and ice-cream and I remember there was a time when I ate too much ice-cream that I got a stomache.
+
+    Do you think it is healthy for you to eat snacks?
+
+    No, I think snacks are unhealthy and can lead to severe physical problems such as obesity or inadequate development.
+
+    When do you usually eat snacks now?
+
+    I always purchase some snacks at a food stand or grocery store after my lectures
 
 #### Singing
 
     Do you like singing? Why?
 
-    I don't think I like singing.
+    Yes, I like singing a little bit, but I am not considering a very good singer, but in my quality time, I used to sing by myself and order to maintain the ambience.
 
     Have you ever learnt how to sing?
 
@@ -437,11 +483,19 @@ Frankly
 
     Do you like geography?
 
+    No, not really. I find it boring because it is an isolated subject. But when I travel to a new place, I sometimes feel the importance of knowing a bit geography.
+
     Have you ever studied geography at school?
+
+    Yes, I used to study geography in my high school, but I wasn't good at it.
 
     Are you good at reading a map?
 
+    Yeah, I can say that. I have a sense of direction and can easily read a map to find the routes to the destinations. However, the skill would not come in handy because it is more convenient to use navigation app on smartphone.
+
     Would you visit a country because of its geographical location?
+
+    Of course, I always want to see volcanos and coral reefs but I am also interested in exploring the culture and history of a country.
 
 #### Social Media
 
@@ -465,7 +519,7 @@ Frankly
 
     Do you do puzzles in your childhood?
 
-    Yes of course, I've done all kinds of puzzles including number puzzles, word puzzles and j. The most I have done I remember was the word puzzles on the newspaper I subscribed for English studies.
+    Yes of course, I've done all kinds of puzzles such as number puzzles and word puzzles. The most I have done I remember was the word puzzles on the newspaper I subscribed for English studies.
 
     When do you do puzzles, during your trip or when you feel bored?
 
@@ -481,32 +535,108 @@ Frankly
 
 ### Part2
 
-#### 受到表扬
+#### 决意等待
 
-    Describe a time you received postive feedback. You should say: 
-    What you did
-    Who give you the feedback
-    Why he/she gave you the positive feedback
-    Explain how you feel about it
+    Describe a time you made a decision to wait for something. You should say
+    When it happened
+    What you waited for
+    Why you made the decision
+    Explain how you felt about while waiting
 
-    A
+    Introduction
+    I'm going to describe a time when I waited in the queue at a restaurant. 
 
-#### 户外活动
+    Body(task response)    
+    It has been several years since the last time we saw each other in person because of the pandemic, so we decided to eat out with my friends last summer vacation.
+    
+    Unfortunately, We did not make any reservation. Thus, when we came to the restaurant another day, we had either to wait for a table or to choose another restaurant. 
+    
+    At that time, four of us were not famined and we were so delighted to chat with each other that we decided to wait.
 
-    Describe an outdoor activity you did in a new place recently. You should say:
-    Where and when you went there
-    What the activity was
-    Whether you asked for help in the activity
-    Explain why you attended the activity
+    After waiting for approximately 30 minutes, we were seated in a cozy booth and the waiter began to serve our meal. By appearances, our steaks looked so delicious and the roasted veggies smelled delightful. I was famished and my taste buds were already bursting with excitement! It tasted really good.
 
-#### 激励你做有趣事情的人
+    Conclusion
+    It turned out a wise decision, because time flies quickly when you are in a happy mood. The waiting time is worthy because of the service and nice dish.
 
-    Describe a person who inspired you to do something interesting. You should say
+#### 印象深刻的英语课
+
+    Describe an impressive English lesson you had and enjoyed. You should say
+    What it was about
+    When you had it
+    What the teacher did
+    Why you enjoyed the lesson
+
+    Introduction
+    I am going to describe an English lesson I took to prepare for my IELTS exam.
+
+    Body(task response)
+    I attended the lecture about 3 weeks before. 
+
+    It focused on the writing part and teacher taught us the basic structures consisting of 1 introduction, 2 body paragraphs, and 1 conclusion and gave us some band 9 example essays.
+
+    I enjoyed the class for several reasons. To commence with, because the teacher is a native English speaker and used to be an IELTS examiner, I really gained a lot from the lesson. Another thing is that the teacher really had a sense of humor and made me burst into laughter several times.
+
+    Conclusion
+    The lecture is helpful and available via the Internet and I would recommend it to anyone who needs to take an IELTS exam.
+
+#### 常去的熟人之家
+
+    Describe the home of someone you know well and that you often visit. You should say:
+
+    Whose home it is
+    How often you go there
+    What it is like
+    Explain how you feel about the home
+
+    Introduction
+    I am going to describe my granpa's house.
+
+    Body(task response)
+    When I was a young kid, I spent most of my summer and winter vacations there. However, I only go back to reunite with the big family during Spring Festival.
+
+    The house is located in the countryside. Despite the absence of public transport, it is still comfortable to live there, because the house has equipped with all the electronic appliances and has access to the Internet.
+
+    I think it is also a good place to escape from the huslte and bustle of bv 
+
+    Conclusion
+
+#### 时尚人士
+
+    Describe a person who likes to dress fashinably or well. You should say:
     Who he/she is
-    How you knew him/her
-    What interesting thing you did
-    Explain how he/she inspired you to do it
+    What job he/she does
+    What kind of clothes he/she wears
+    Explain why he/she likes fashion
 
-#### 向游客推荐本国旅游地
+    Introduction: 
+    Speaking of someone who likes fashion, there are many nominees because hundreds of celebrities, actors, athletes, artists, and even instagram influencers are trendy and even own a tailor or stylist.
 
-    Describe a place in you country or part of your country
+    Body(task responce):
+    I would like to describe Devin Booker, my favorite NBA basketball player who is now a Phoenix Suns guard and three-time NBA All-Star. 
+
+    Booker is known for keeping his outfits casual and comfortable while still attractive and engaging. In fact, he usually wears a normal hoodie and jeans but uses some stunning accessories such as an icy necklace or a shining watch to embellish his entire costume.
+    
+    I would partly attribute his ability to dress well to his girlfriend, Kendall Jenner, who is also a famous model.
+
+    Conclusion:
+    As a man, I always idolize him for his fashion sense as well as his basketball skills.
+
+#### 侍弄花果之人
+
+    Describe a person who loves to grow plants. You should say:
+    Who this person is
+    What he/she grows
+    Where he/she grows them
+    And explain why he/she enjoys growing plants
+
+    Introduction
+    My mother is someone who is really keen on growing plants.
+
+    Body
+    She likes to buy and grow plotted plants, especial cactus.
+    
+    She puts them in our balcony and bedrooms as a decration because she thinks green plants and colorful flowers bring people fresh air and relieve the strain on our eyesight.
+
+    In addition to this, she believes that it can be delighted to see all the beatiful plants and they can lift our mood and bring us instant happiness.
+
+    Conclusion
