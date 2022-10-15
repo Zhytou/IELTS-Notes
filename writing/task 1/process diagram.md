@@ -16,7 +16,7 @@
 
 + convey运送 transmit传输 accelerate加速
 + accumulate积累 gather/collect收集
-+ mold压模 bend弯曲 revolve/rotate旋转 spin旋转/纺 reverse颠倒/倒转
++ mould/mold压模 bend弯曲 revolve/rotate旋转 spin旋转/纺 reverse颠倒/倒转
 + absorb吸收 dissolve溶化/解散
 + separate分开 compress压缩 chop坎 grind磨(碎)/碾(碎)
 + ignite点燃

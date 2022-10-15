@@ -15,7 +15,7 @@
 | 得分要点  | 必须提到两个题干中的两个观点，而且两个主体段必须分别阐述两个观点的**优势**或者**原因**；</br>至于自己的观点，若比较复杂可以另一起一段单独称述，否则在总结段中表明自己偏A反驳B或者偏B反驳A| 可以选择支持或者反对，甚至是支持又反对，对应的主体段落就是两个支撑、两个反驳或者一个支撑一个反驳；</br> 注意一分为二的思考方式，为题干中的观点添加一些限定词，在不同的背景中思考整个问题，辩证的回答，从而保证字数|
 | 参考结构  | Introduction:blabla. In my opinion, blabla </br> Body 1: Adovates of xxx cite efficiency and safety as significant factors.</br> Body 2: On the other hand, those in favour of xxx believe that it is flexible and economical to do so.</br> Conclusion: From my point of view, blabla | Introduction: blablabla. From my point of view, I totally/partially/ agree/disagree blabla.</br> Body 1: Why I agree/disagree. </br> Body 2: |
 
-## 思路
+## 结构
 
 ### 介绍段
 
@@ -137,14 +137,14 @@
 
 题目
 
-    ·Some employers offer their employees subsidsed membership of gyms and sports center, believing that this will make their staff healthier and thus more effective at work. Other employers see no benefi in doing so.
+    Some employers offer their employees subsidsed membership of gyms and sports center, believing that this will make their staff healthier and thus more effective at work. Other employers see no benefi in doing so.
 
     Consider the arguments from both aspects of this possible debate, and reach a conclusion.
 
 答案
 
     支持者：
-    1. lead to higher levels of output or service, 
+    1. lead to higher levels of output or service
     2. improve the work/life balance, more fulfilling leisure time, more motivating than perks, payincrements or financial rewards
     3. improve job satisfaction
     反对者：
@@ -192,7 +192,7 @@
 
     原因
     1. emissions -> contain damaging pollutant particals which contaminate rainwater run-off and thus enter the water cycle.
-    2. accidental of deliberate dumping of waste product in places ouside of landfills or waste processing centers.
+    2. accidental or deliberate dumping of waste product in places ouside of landfills or waste processing centers.
     危害
     1. (animal life)severe -> Contaminated water leads to dwindling numbers or even potentail extinction.
     2. (human society)distressing -> including poisoning of drinking water, famine or drought due to lack of safe irrigation
@@ -307,23 +307,6 @@
     Regarding potential solutions, those countries which face famine need to introduce more agricultural specialists and advanced technology to rationally take advantage of the limited resource. Consequently, super seeds and plants can be invented which could stand against undesirable natural conditions even if they are not blessed with good weather conditions. Finally, it is essential to tackle climate change with immediate effect. Otherwise, it will impact the whole world in a negative way.
 
     In conclusion, poor cultivating conditions, inability to utilize new technology, and climate change together lead to hunger in some places around the world, but the government can introduce more agricultural specialists and advanced technology to improve the situation.
-
-题目
-
-    剑雅10-3
-    Countries are becoming more and more similar because people are able to buy the same products anywhere in the world.
-    Do you think this is a positive or negative development?
-    Give reasons for your answer and include any relevant examples from your own knowledge or experience.
-
-答案
-
-    It is true that countries are losing their own unique characteristics and having more in common as a result of easy access to the same products anywhere in the world with the development and globalization of the economy. In my opinion, there are both strengths and weaknesses, but I think it is a positive development.
-
-    When it comes to the disadvantages, the similarity of countries can lead to a loss of culture. For instance, some traditions and habits may disappear, because they are losing their soil.
-
-    With the help of the globalized economy, it can be convenient and practical for people to live in a different country, because they are able to purchase similar items from a different place. For instance, international students may feel less homesick thanks to the easy access to familar food or products. In addition to this, students may 
-
-    In conclusion,
 
 题目
 
