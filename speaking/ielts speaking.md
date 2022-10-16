@@ -596,7 +596,7 @@ Frankly
 
     The house is located in the countryside. Despite the absence of public transport, it is still comfortable to live there, because the house has equipped with all the electronic appliances and has access to the Internet.
 
-    I think it is also a good place to escape from the huslte and bustle of bv 
+    I think it is also a good place to escape from the huslte and bustle of conurbaions
 
     Conclusion
 
