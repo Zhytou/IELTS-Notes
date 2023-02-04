@@ -1,32 +1,91 @@
 # IELTS Speaking Preparation
 
+- [IELTS Speaking Preparation](#ielts-speaking-preparation)
+  - [Structure](#structure)
+    - [Part1 \& Part3](#part1--part3)
+    - [Part2](#part2)
+  - [Useful Widgets](#useful-widgets)
+    - [Opener](#opener)
+    - [Linking Words](#linking-words)
+    - [Useful Words](#useful-words)
+    - [Greetings \& Bye](#greetings--bye)
+    - [Suggestions](#suggestions)
+  - [Topics](#topics)
+    - [Basic](#basic)
+      - [Work](#work)
+      - [Accomodation](#accomodation)
+      - [Hometown](#hometown)
+    - [Describe a person](#describe-a-person)
+      - [Close People](#close-people)
+      - [Celebrity](#celebrity)
+    - [Describe a place or city](#describe-a-place-or-city)
+      - [City](#city)
+    - [Describe an object](#describe-an-object)
+      - [Electronic Devices](#electronic-devices)
+      - [Book/TV series](#booktv-series)
+      - [Music/Film](#musicfilm)
+      - [Vedio Game - LOL](#vedio-game---lol)
+    - [Describe an event](#describe-an-event)
+      - [Traditional Festivals](#traditional-festivals)
+      - [Sports Event](#sports-event)
+      - [Concert/Live House](#concertlive-house)
+      - [Lessons](#lessons)
+    - [Descirbe an experience](#descirbe-an-experience)
+      - [Romantic/Lovely/Happy Gift](#romanticlovelyhappy-gift)
+      - [Angry/Sad Thing](#angrysad-thing)
+    - [Describe an activity or a favarite thing](#describe-an-activity-or-a-favarite-thing)
+      - [School/Classes/Exams](#schoolclassesexams)
+      - [Sports/Healthy Habits](#sportshealthy-habits)
+      - [Food/Snacks](#foodsnacks)
+  - [Example](#example)
+    - [Part1](#part1)
+      - [Morning Time](#morning-time)
+      - [Housework and cooking](#housework-and-cooking)
+      - [Technology](#technology)
+      - [Public transportation](#public-transportation)
+      - [Weather](#weather)
+      - [Brithday](#brithday)
+      - [Writing](#writing)
+      - [Names](#names)
+      - [Snacks](#snacks)
+      - [Singing](#singing)
+      - [Geography](#geography)
+      - [Social Media](#social-media)
+      - [Puzzles](#puzzles)
+    - [Part2](#part2-1)
+      - [决意等待](#决意等待)
+      - [印象深刻的英语课](#印象深刻的英语课)
+      - [常去的熟人之家](#常去的熟人之家)
+      - [时尚人士](#时尚人士)
+      - [侍弄花果之人](#侍弄花果之人)
+
 ## Structure
 
 ### Part1 & Part3
 
-+ Answer
+- Answer
 
     Answer directly with yes/of course/absolutely
 
-+ Reason
+- Reason
 
     Give a reson why you doing this
 
-+ Example/Explaination
+- Example/Explaination
 
     Expand your answer
 
 ### Part2
 
-+ Introduction
+- Introduction
 
     Say something related as openers or hints.
 
-+ Body
+- Body
 
     Respond to the question, specifically 1 1 1 2 sentences for each question.
 
-+ Conclusion
+- Conclusion
 
     Use a nice sentence to end your answer.
 
@@ -46,49 +105,50 @@ Frankly
 
 ### Linking Words
 
-+ It depends.
-+ Well
-+ If I have to choose, I prefer ...
-+ In saying that, my life is hectic these days and I don't really have time for it.
-+ I suppose/believe/think/guess/reckon
-+ Personly/In my opinion/In my point of view/As far as I know
-+ Frankly/To be honest
-+ There is no doubt .../Undeniably
-+ Exactly/Deinitely/Absolutely
-+ According to my observation
-+ That's a bit tough question to answer
-+ Luckily/Unfortunately
+- It depends.
+- Well
+- If I have to choose, I prefer ...
+- In saying that, my life is hectic these days and I don't really have time for it.
+- I suppose/believe/think/guess/reckon
+- Personly/In my opinion/In my point of view/As far as I know
+- Frankly/To be honest
+- There is no doubt .../Undeniably
+- Exactly/Deinitely/Absolutely
+- According to my observation
+- That's a bit tough question to answer
+- Luckily/Unfortunately
 
 ### Useful Words
 
-+ You're lagging/freezing:你卡了
-+ Stop the cap:别骗我
-+ There is no way:不可能
-+ By the way:顺便说一下
-+ You feel me:你懂我意思吗
-+ You hesitated:你犹豫了
-+ I see/got you:我了解了
-+ It's up to you:由你决定
-+ Impress me:说说看
-+ You're hot/good looking:你很辣
-+ Wait:等下
+- That's gross:恶心
+- You're lagging/freezing:你卡了
+- Stop the cap:别骗我
+- There is no way:不可能
+- By the way:顺便说一下
+- You feel me:你懂我意思吗
+- You hesitated:你犹豫了
+- I see/got you:我了解了
+- It's up to you:由你决定
+- Impress me:说说看
+- You're hot/good looking:你很辣
+- Wait:等下
 
 ### Greetings & Bye
 
-+ Good to see you again
-+ What's good/up/poping?
-+ Hope to see you again
-+ You make my day
-+ What's good
-+ Wish you a good day
-+ Have a good one
+- Good to see you again
+- What's good/up/poping?
+- Hope to see you again
+- You make my day
+- What's good
+- Wish you a good day
+- Have a good one
 
 ### Suggestions
 
-+ Use full sentences, even if it is understandable
-+ Instead of continously correcting yourself, try to say "by saying that, I mean"
-+ Avoid using too much fillers, such as "hmmm", "you know" and "like"
-+ Try to be direct to the point, especially in part2.
+- Use full sentences, even if it is understandable
+- Instead of continously correcting yourself, try to say "by saying that, I mean"
+- Avoid using too much fillers, such as "hmmm", "you know" and "like"
+- Try to be direct to the point, especially in part2.
 
 ****
 
